@@ -1,3 +1,5 @@
+//Author Robert Tunn 2021
+
 public class SDES_Encrypt {
     
     public static void main (String args[]) {
